@@ -1,0 +1,23 @@
+.header{
+    padding-left: 30px;
+    padding-right: 30px;
+   text-align:right;
+    font-size: 20px;
+    text-style:bold;
+        
+}
+.format{
+    padding-left: 20px;
+}
+.list {
+     margin-top: 15px;
+     margin-bottom: 15px;
+     }
+/*     .panel-heading{
+         background-color: #cccccc;
+     }*/
+    .bg-success{
+        padding-left: 10px;
+        background-color: #cccccc;
+    }
+/*     }in place of panel-heading can use bg-success*/
