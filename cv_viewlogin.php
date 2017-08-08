@@ -19,10 +19,10 @@ $row = mysqli_fetch_assoc($r);
         background-color: #cccccc;
     }
     </style>
-
+    <div class="col-sm-offset-2 col-sm-8">
 <body style="background-color: white">
     <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 box">
             <br>
             <?php
              $temp=glob($log_directory."uploads/$row[id].*");
@@ -154,4 +154,5 @@ $row = mysqli_fetch_assoc($r);
      ?>
 </body>
 </html>
+</div>
 <?php include_once './footer.php';?>

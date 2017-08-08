@@ -23,9 +23,9 @@ With cv-maker.org we want to provide a professional resume building service. Our
         <p>Key phrases: we provide a professional-written collection of key phrases in order to help the users create a resume only by selecting them. The tool also includes context-sensitive resume writing tips.</p> Professional Resume Templates: approved by our resume experts. Easily customizable to fit all user's needs. Also real-time preview of resume template designs.
 
 <p>Sharing Tools: spread your resume via social media or export it to various formats. You can also print or publish it on the web (Resume Website).</p>
-  
+
 <img class="img-responsive " src="image/r1.JPG" />
-            
+
 <p>Our approach is not to focus on building "beautiful" resumes based on "creative" templates. We center our efforts on providing THE BEST RESULTS to our users, with only one thing in mind: to help them get a job.</p>
 <p>The idea behind this website was born in 2009. Our company owns many websites related to the field of resume writing, like: ResumeMaker.org or FreeResumeSamples.org. With the help of our resume experts, we're continually creating new contents to help our readers in their job hunting process. The next logical step was to provide a tool intended for resume creation: ResumeBuilder.org.</p>
 <?php include './footer.php';?>
